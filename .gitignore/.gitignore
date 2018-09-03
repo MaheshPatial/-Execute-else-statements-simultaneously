@@ -1,0 +1,30 @@
+________________________________________________________________________________________________________________
+
+                              << Execute else statements simulraneously >>
+________________________________________________________________________________________________________________
+
+Syntax :
+
+	if (Boolean expression)
+	{
+	  // execute 
+ 	  // if boolean expression is true
+	}
+	else
+	{
+	  //  execute only if 
+	  //  Boolean expression is false 
+ 	}
+________________________________________________________________________________________________________________
+
+: Example :
+
+if (1) { label_1: print("Hello");
+	 goto label_2;
+	}
+
+else   { goto label_1;
+	 label_2 : printf("Github"):
+	}
+	return o;
+	}
